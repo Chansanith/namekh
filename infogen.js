@@ -11,7 +11,10 @@ words[6] = "Attack on Titan"
 words[7] = "Dragon Ball Super"
 words[8] = "Jojo's Bizarre Adventure"
 words[9] = "Persona 5"
-words[10] = "Jormungand"
+words[10] = "Chan Nith"
+words[11] = "Riki Tag"
+words[12] = "Manith Ne"
+words[13] = "Sok"
 
 //thanks @Pete Hearne for the function!//
 function BuildArray(size){
