@@ -2,11 +2,11 @@ var NumberOfWords = 13
 
 var words = new BuildArray(NumberOfWords)
 
-words[1] = "Guilty Crown"
-words[2] = "Overlord"
-words[3] = "Danganronpa"
-words[4] = "Needless"
-words[5] = "Heavy Object"
+words[1] = "Guilty Crown <br> Sak <br> Sok"
+words[2] = "Overlord <br> Sak <br> Sok"
+words[3] = "Danganronpa <br> Sak <br> Sok"
+words[4] = "Needless <br> Sak <br> Sok"
+words[5] = "Heavy Object <br> Sak <br> Sok"
 words[6] = "Attack on Titan"
 words[7] = "Dragon Ball Super"
 words[8] = "Jojo's Bizarre Adventure"
